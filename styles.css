@@ -1,0 +1,95 @@
+body {
+font-family: Futura, sans-serif;
+background-color: #DDC192;
+}
+
+header {
+text-align: center; 
+color: #2C475A
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  border: 2px solid #721E1E;
+  margin: 0 auto;
+  color: #5A3D2B;
+  
+}
+
+th, td {
+  border: 1px solid #BE2528;
+  padding: 8px;
+}
+
+
+
+.code{
+  font-family: "Courier", serif;
+  color: #2C677B;
+}
+
+#color{
+  color: #2C677B;
+}
+
+.background-color {
+  background-color: #E5771E;
+}
+
+#tnr{
+  font-family: "Times New Roman";
+}
+
+#courier{
+  font-family: courier;
+}
+
+#comicsans{
+  font-family: "Comic Sans MS";
+}
+
+#left {
+  text-align: left;
+}
+
+#center {
+  text-align: center;
+}
+
+#right{
+  text-align: right;
+}
+
+#fontsize{
+  font-size: 20px;
+
+}
+#underline {
+  text-decoration: underline;
+}
+#linethrough {
+  text-decoration: line-through;
+}
+#overline {
+  text-decoration: overline;
+}
+
+#lineheight{
+  line-height: 6;
+}
+
+
+footer{
+  background-color:#DDC192;
+  text-align: center;
+  color: #2C475A;
+}
+
+img{
+  height: 100px;
+  width: 100px;
+  background-color: #DDC192;
+  text-align: center;
+
+}
